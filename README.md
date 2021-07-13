@@ -1,6 +1,6 @@
 # Howdy, I'm Rachel!
 
-This document is a short intro to hopefully give us a leg up when working together, it by no means replaces building our relationship but I hope it helps introduce you to some of my quirks up front!
+This document is a short intro to hopefully give us a leg up when working together, it by no means replaces building our relationship but I hope it helps introduce you to some of my quirks up front! Props to Adnan Fiaz and Sam Young for the idea.
 
 # Overview
 
