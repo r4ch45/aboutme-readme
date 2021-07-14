@@ -2,8 +2,6 @@
 
 This document is a short intro to hopefully give us a leg up when working together, it by no means replaces building our relationship but I hope it helps introduce you to some of my quirks up front! Props to Adnan Fiaz and Sam Young for the idea.
 
-# Overview
-
 # My Values
 -	**Genuinity**: I spend ~2,000 hours/year at work and don’t have the brain space to compartmentalise myself. Sometimes that means wearing a silly t-shirt, making a bad joke, letting my hair go frizzy or telling you I’m tired. When other people show that too, it makes me feel more comfortable and trusted
 - **Fail Fast**: I'm a big believer in Pareto - 20% effort takes you 80% of the way there. I think we learn more from experimentation and trying things out, than planning. I maybe also like Pareto because I'm not great at finishing things
@@ -29,4 +27,10 @@ This document is a short intro to hopefully give us a leg up when working togeth
 - I prefer informal messaging based communication instead of emails, I obsess over email wording too much
 - I love feedback, if you have any I'd like to hear it as close to when you had the thought as possible, it helps me understand the context of things more
 
-
+# Conversation Starters
+If you've made it this far and still want to converse with me, fantastic! Here are some things that are good conversation starters for me at the moment.
+- Scottish roadtrips and adventures
+- Football (soccer), I play for my local team and enjoy obsessing over my Fantasy Football team too
+- **Favourite Book**: [Invisible Women by Caroline Criado Perez](https://en.wikipedia.org/wiki/Invisible_Women:_Exposing_Data_Bias_in_a_World_Designed_for_Men)
+- **Favourite Film**: [Fantastic Mr Fox directed by Wes Anderson](https://en.wikipedia.org/wiki/Fantastic_Mr._Fox_(film))
+- **Favourite Series**: [Master of None](https://en.wikipedia.org/wiki/Master_of_None), although I have lots!
