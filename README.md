@@ -4,14 +4,14 @@ This document is a short intro to hopefully give us a leg up when working togeth
 
 # My Values
 -	**Genuinity**: I spend ~2,000 hours/year at work and don’t have the brain space to compartmentalise myself. Sometimes that means wearing a silly t-shirt, making a bad joke, letting my hair go frizzy or telling you I’m tired. When other people show that too, it makes me feel more comfortable and trusted
-- **Fail Fast**: I'm a big believer in Pareto - 20% effort takes you 80% of the way there. I think we learn more from experimentation and trying things out, than planning. I maybe also like Pareto because I'm not great at finishing things
--	**Empathy**: I like trying to envisage other’s viewpoint as I think it helps me be kinder and for us to work better together, I like it when people try and see my point of view and understand my feelings too
+- **Fail Fast**: I'm a big believer in Pareto - 20% effort takes you 80% of the way there. I think we learn most from experimentation and trying things out. I maybe also like Pareto because I'm not great at finishing things
+-	**Empathy**: I like trying to see other’s viewpoint as I think it helps me be kinder and for us to work better together, I like it when people try and see my point of view and understand my feelings too
 
 
 # Strengths
 
 - **Consensus**: I enjoy engaging with people and trying to ensure everyone is working towards the same goal. I'll really try to ensure you feel heard
-- **Next Steps**: I like actions, plans and outcomes (it helps me feel like I'm accomplishing things). This means I'll often need to define outcomes and actions to be able to deliver work
+- **Next Steps**: I like actions, and planned outcomes (it helps me feel like I'm accomplishing things). This means I'll often need to define outcomes and actions to be able to deliver work
 - **Value Driven** I may love data science but I don't mind if the answer to a problem is not data science, I'll do anything to try and help
 
 
