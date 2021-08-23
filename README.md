@@ -12,7 +12,7 @@ This document is a short intro to hopefully give us a leg up when working togeth
 
 - **Consensus**: I enjoy engaging with people and trying to ensure everyone is working towards the same goal. I'll really try to ensure you feel heard
 - **Next Steps**: I like actions, and planned outcomes (it helps me feel like I'm accomplishing things). This means I'll often need to define outcomes and actions to be able to deliver work
-- **Value Driven** I may love data science but I don't mind if the answer to a problem is not data science, I'll do anything to try and help
+- **Value Driven**: I may love data science but I don't mind if the answer to a problem is not data science, I'll do anything to try and help
 
 
 # Weaknesses
