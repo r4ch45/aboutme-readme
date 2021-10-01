@@ -31,6 +31,6 @@ This document is a short intro to hopefully give us a leg up when working togeth
 If you've made it this far and still want to converse with me, fantastic! Here are some things that are good conversation starters for me at the moment.
 - Scottish roadtrips and adventures
 - Football (soccer), I play for my local team and enjoy obsessing over my Fantasy Football team too
-- **Favourite Book**: [Invisible Women by Caroline Criado Perez](https://en.wikipedia.org/wiki/Invisible_Women:_Exposing_Data_Bias_in_a_World_Designed_for_Men)
+- **Favourite Book**: [Invisible Women by Caroline Criado Perez](https://en.wikipedia.org/wiki/Invisible_Women:_Exposing_Data_Bias_in_a_World_Designed_for_Men), although I love Fantasy too like [The Fifth Season by N.K. Jemsin](https://en.wikipedia.org/wiki/The_Fifth_Season_(novel)) (which made me realise I liked Fantasy) and [The Power by Naomi Alderman](https://en.wikipedia.org/wiki/The_Power_(Alderman_novel))
 - **Favourite Film**: [Fantastic Mr Fox directed by Wes Anderson](https://en.wikipedia.org/wiki/Fantastic_Mr._Fox_(film))
-- **Favourite Series**: [Master of None](https://en.wikipedia.org/wiki/Master_of_None), although I have lots!
+- **Favourite TV Series**: [I May Destroy You](https://en.wikipedia.org/wiki/I_May_Destroy_You), [Fleabag](https://en.wikipedia.org/wiki/Fleabag), [Master of None](https://en.wikipedia.org/wiki/Master_of_None), although I have lots!
