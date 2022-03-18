@@ -1,11 +1,23 @@
-# Howdy, I'm Rachel!
+# 👋 Howdy, I'm Rachel!
 
-This document is a short intro to hopefully give us a leg up when working together, it by no means replaces building our relationship but I hope it helps introduce you to some of my quirks up front! Props to Adnan Fiaz and Sam Young for the idea.
+I'm a data scientists working in the energy industry trying to do my bit for a cleaner future and a net-zero world.
+
+I love taking a vague set of problems and turning them into tangible data science use cases where statistics, code and visualisation can be used to add value. This normally involves answering key questions where the answer may come in any form - apps, maps, dashboards, conversations, database tables, models and beyond - and may need complex datasets combined with statistical analysis, machine learning and data visualisation to get there. I don’t mind what the solution is as long as we solve the problem. 
+
+This ReadMe contains a short intro to hopefully give us a leg up when working together, it by no means replaces building our relationship but I hope it helps introduce you to some of my quirks up front! Props to Adnan Fiaz and Sam Young for the idea.
 
 # My Values
 -	**Genuinity**: I spend ~2,000 hours/year at work and don’t have the brain space to compartmentalise myself. Sometimes that means wearing a silly t-shirt, making a bad joke, letting my hair go frizzy or telling you I’m tired. When other people show that too, it makes me feel more comfortable and trusted
 - **Fail Fast**: I'm a big believer in Pareto - 20% effort takes you 80% of the way there. I think we learn most from experimentation and trying things out. I maybe also like Pareto because I'm not great at finishing things
 -	**Empathy**: I like trying to see other’s viewpoint as I think it helps me be kinder and for us to work better together, I like it when people try and see my point of view and understand my feelings too
+
+
+I'm a PhD student working within the Energy Systems & AI Lab at the UCL Energy Institute, my research focuses on new techniques for forecasting electricity prices and wind power to aid in optimisation of wind farm operation. Before starting my PhD I received a bachelors in Chemical Engineering and masters in Energy Systems & Data Analytics. Alongside my research I help teach statistics, programming, and GIS to masters students at the UCL Energy Institute. 
+
+* 🎓 PhD student at the UCL Energy & AI Lab 
+* ⚡ Organiser, participant, and winner of energy hackathons
+* 💻 Freelance data scientist, data visualiser, and web-developer
+* 💬 Normally talking about something energy or Python related
 
 
 # Strengths
