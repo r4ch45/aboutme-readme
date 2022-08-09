@@ -1,6 +1,6 @@
 # 👋 Howdy, I'm Rachel!
 
-I'm a data scientists working in the energy industry trying to do my bit for a cleaner future and a net-zero world.
+I'm a data scientist working in the energy industry trying to do my bit for a cleaner future and a net-zero world.
 
 I love taking a vague set of problems and turning them into tangible data science use cases where statistics, code and visualisation can be used to add value. This normally involves answering key questions where the answer may come in any form - apps, maps, dashboards, conversations, database tables, models and beyond - and may need complex datasets combined with statistical analysis, machine learning and data visualisation to get there. I don’t mind what the solution is as long as we solve the problem. 
 
